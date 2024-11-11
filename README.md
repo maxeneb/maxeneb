@@ -1,8 +1,12 @@
 
-![88e38cba4b0dcf0af9afb3b993c4d116](https://github.com/user-attachments/assets/6aa6ef8c-8ff0-4c4f-94cc-a3a371f48120)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a028dac8-5324-4989-bc5d-ff28baab7996" alt="Maxene" width="200"/>
+  <h2>Hi, I'm Maxene ᯓ ⭑.ᐟ</h2>
+</div>
 
 
-## Hi, I'm Maxene ᯓ ⭑.!
+
+
 
 
 ### Languages and Tools:
