@@ -99,12 +99,8 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxeneb&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxeneb&layout=compact&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxeneb&theme=catppuccin-latte&hide_border=true" alt="GitHub Streak"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxeneb&layout=compact&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
