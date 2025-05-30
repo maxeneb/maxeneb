@@ -8,8 +8,8 @@
 <div align="center">
   <h3>🎓 BS Computer Science | Major in AI & Web Development</h3>
   <p>
-    I enjoy building functional solutions and bringing ideas to life through creative design and illustration.<br>
-    I love learning new technologies, exploring innovative concepts, and taking on new challenges~
+    A curious learner who enjoys building functional solutions and bringing ideas to life through creative design and illustration.<br>
+    Outside of coding, I enjoy scrapbooking/journaling, reading fiction, and vibing to good music~
   </p>
   
   <p>
